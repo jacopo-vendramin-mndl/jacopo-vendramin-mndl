@@ -7,7 +7,7 @@
 <img align="left" alt="Vue" width="35px" src="https://cdn.svgporn.com/logos/vue.svg" />
 <img align="left" alt="Nest" width="35px" src="https://cdn.svgporn.com/logos/nestjs.svg" />
 <img align="left" alt="Git" width="35px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-<img align="left" alt="Nuxt" width="35px" src="https://cdn.svgporn.com/nuxt-icon.svg" />
+<img align="left" alt="Nuxt" width="35px" src="https://cdn.svgporn.com/nuxt.svg" />
 
 </br>
 
